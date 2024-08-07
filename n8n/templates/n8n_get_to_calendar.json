@@ -3,7 +3,7 @@
   "nodes": [
     {
       "parameters": {
-        "path": "get-calendar-dentista-c1",
+        "path": "get-calendar-Citas-chatbot",
         "responseMode": "lastNode",
         "responseData": "allEntries",
         "options": {}
@@ -22,7 +22,7 @@
           "__rl": true,
           "value": "6d7a7a049ed5573f1a678446bdf2616ba0f9b703c812f5c43dfed84ece6613f1@group.calendar.google.com",
           "mode": "list",
-          "cachedResultName": "[Dentista C1] - Citas"
+          "cachedResultName": "Citas chatbot"
         },
         "options": {}
       },
@@ -68,7 +68,7 @@
       "createdAt": "2024-03-19T15:41:37.845Z",
       "updatedAt": "2024-03-19T15:41:37.845Z",
       "id": "A4Vm3b079YTXpHeY",
-      "name": "DentistaC1"
+      "name": "Citas chatbot"
     }
   ]
 }
